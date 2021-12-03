@@ -1,0 +1,48 @@
+img1.jpg
+,gt_vanish_point,"(404, 183)"
+,predicted_vanish_point,"(404.7233782129743, 185.01672786617706)"
+,SED,"4.590467325220979"
+img10.jpg
+,gt_vanish_point,"(240, 466)"
+,predicted_vanish_point,"(239.9362741041132, 475.43209467847396)"
+,SED,"88.96847101350335"
+img13.jpg
+,gt_vanish_point,"(390, 260)"
+,predicted_vanish_point,"(394.00149875104074, 266.09969469886204)"
+,SED,"53.21826767390627"
+img14.jpg
+,gt_vanish_point,"(375, 270)"
+,predicted_vanish_point,"(373.80533691687464, 261.8529468228067)"
+,SED,"67.80169535419803"
+img15.jpg
+,gt_vanish_point,"(416, 270)"
+,predicted_vanish_point,"(412.6258957768037, 275.16586655534684)"
+,SED,"38.0707565766421"
+img18.jpg
+,gt_vanish_point,"(292, 213)"
+,predicted_vanish_point,"(293.109661728941, 214.69953570638955)"
+,SED,"4.11977076996932"
+img20.jpg
+,gt_vanish_point,"(406, 288)"
+,predicted_vanish_point,"(400.6325839236219, 289.02648598706503)"
+,SED,"29.86282881860301"
+img21.jpg
+,gt_vanish_point,"(389, 208)"
+,predicted_vanish_point,"(391.8769771528999, 207.96485061511424)"
+,SED,"8.278233017565764"
+img3.jpg
+,gt_vanish_point,"(396, 276)"
+,predicted_vanish_point,"(394.5409662006724, 276.04317819854896)"
+,SED,"2.1306439844102214"
+img6.jpg
+,gt_vanish_point,"(378, 258)"
+,predicted_vanish_point,"(375.3700648202711, 257.6405421331762)"
+,SED,"7.045769007597059"
+img7.jpg
+,gt_vanish_point,"(379, 423)"
+,predicted_vanish_point,"(377.43397431348905, 424.5300503796211)"
+,SED,"4.793490614990827"
+img9.jpg
+,gt_vanish_point,"(438, 367)"
+,predicted_vanish_point,"(435.704, 370.29599999999994)"
+,SED,"16.13523199999954"
